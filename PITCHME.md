@@ -1,15 +1,17 @@
-# Flux
-
-An application architecture for React
+# PowerShell Ways of Working
 
 ---
 
-### Flux Design
+### Where we were
 
-- Dispatcher: Manages Data Flow
-- Stores: Handle State & Logic
-- Views: Render Data via React
+1. Kanban workflow (Trello).
+1. Consistent VM templates using configuration-as-code (Packer).
+1. Automated, repeatable VM provisioning using configuration-as-code (Vagrant).
+1. Git source control with simple branching model.
+1. Automated analysis for best practices and formatting (PSScriptAnalyzer).
+1. Unit and Integration tests (Pester).
+1. Every task is now automated - provisioning, analysis, installing, testing, releasing (PSake).
 
 ---
 
-![Flux Explained](https://facebook.github.io/flux/img/flux-simple-f8-diagram-explained-1300w.png)
+![Where we want to be](images/release_pipeline.png)
