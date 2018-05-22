@@ -57,6 +57,4 @@
 
 ---
 
-### Packer
-
-![](images/packer1.jpg)
+### Demo
