@@ -17,17 +17,25 @@
 
 ---
 
+### Where we want to be (1/4)
+
 ![](images/source.png)
 
 ---
+
+### Where we want to be (2/4)
 
 ![](images/build.png)
 
 ---
 
+### Where we want to be (3/4)
+
 ![](images/testing.png)
 
 ---
+
+### Where we want to be (4/4)
 
 ![](images/release.png)
 
