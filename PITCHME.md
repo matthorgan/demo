@@ -7,9 +7,6 @@
 - Kanban workflow (Trello).
 - Consistent VM templates using configuration-as-code (Packer).
 - Automated, repeatable VM provisioning using configuration-as-code (Vagrant).
-- Git source control with simple branching model.
-- Automated analysis for best practices and formatting (PSScriptAnalyzer).
-- Unit and Integration tests (Pester- Every task is now automated - provisioning, analysis, installing, testing, releasing (PSake).
 
 ---
 
