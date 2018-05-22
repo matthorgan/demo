@@ -14,4 +14,16 @@
 
 ---
 
-![Where we want to be](images/release_pipeline.png)
+![](images/source.png)
+
+---
+
+![](images/build.png)
+
+---
+
+![](images/testing.png)
+
+---
+
+![](images/release.png)
