@@ -32,6 +32,7 @@
 
 ![](images/release.png)
 
+---
 
 ### Where we are now
 
