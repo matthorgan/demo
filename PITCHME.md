@@ -13,7 +13,8 @@
 ### Where we were (Continued)
 
 - No automated code analysis for best practices and formatting.
-- No automated testing of code and/or environmenNo release automation.
+- No automated testing of code and/or environment.
+- No release automation.
 
 ---
 
@@ -53,7 +54,8 @@
 
 - Git source control with simple branching model.
 - Automated analysis for best practices and formatting (PSScriptAnalyzer).
-- Unit and Integration tests (Pester- Every task is now automated - provisioning, analysis, installing, testing, releasing (PSake).
+- Unit and Integration tests (Pester)
+- Every task is now automated - provisioning, analysis, installing, testing, releasing (PSake).
 
 ---
 
