@@ -4,17 +4,16 @@
 
 ### Where we were
 
-- Kanban workflow (Trello).
-- Consistent VM templates using configuration-as-code (Packer).
-- Automated, repeatable VM provisioning using configuration-as-code (Vagrant).
+- No task management system.
+- Manually provisioning VMs would take at least 1hr.
+- No source control.
 
 ---
 
 ### Where we were (Continued)
 
-- Git source control with simple branching model.
-- Automated analysis for best practices and formatting (PSScriptAnalyzer).
-- Unit and Integration tests (Pester- Every task is now automated - provisioning, analysis, installing, testing, releasing (PSake).
+- No automated code analysis for best practices and formatting.
+- No automated testing of code and/or environmenNo release automation.
 
 ---
 
