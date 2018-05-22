@@ -59,4 +59,4 @@
 
 ### Packer
 
-![](images/packer.png)
+![](images/packer.jpg)
